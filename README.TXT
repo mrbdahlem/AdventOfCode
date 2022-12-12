@@ -9,9 +9,8 @@ Each DayXXSolution class has a main method which will run your solutions.
 Solutions come in 3 parts:
 
 1. prepare
-    Each class has a prepare method that will use the Helper class to 
-    load/download your input file for the day. This is where you should
-    parse that input into a form you can use.
+    Each class has a prepare method that will receive your input file for the 
+    day. This is where you should parse that input into a form you can use.
     
 2. part1
     The part1 method should solve the first part of the problem for the day.
