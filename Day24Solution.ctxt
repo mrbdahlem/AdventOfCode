@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Day24Solution
+comment0.text=\r\n\ Solve\ one\ day\ of\ Advent\ of\ Code.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Load\ the\ day's\ input\ then\ parse\ it\ for\ solving\ in\ part1\ and\ part2.\r\n
+comment2.params=
+comment2.target=java.lang.String\ part1()
+comment2.text=\r\n\ Solve\ part\ 1\ of\ this\ day's\ problem.\r\n\ @return\ the\ solution\ to\ part\ 1\ of\ the\ problem\r\n
+comment3.params=
+comment3.target=java.lang.String\ part2()
+comment3.text=\r\n\ Solve\ part\ 2\ of\ this\ day's\ problem.\r\n\ @return\ the\ solution\ to\ part\ 2\ of\ the\ problem\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ A\ runner\ method\ for\ this\ day's\ solution.\r\n\ In\ BlueJ,\ pass\ in\ a\ sample\ file\ name\ like\ {"sample.txt"}\ if\ the\ file\r\n\ is\ stored\ in\ input/sample/dayXX/.\r\n
+numComments=5

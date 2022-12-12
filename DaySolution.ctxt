@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DaySolution
+comment0.text=\r\n\ This\ interface\ describes\ the\ methods\ every\ day's\ solution\ MUST\ implement.\r\n\r\n\ @author\ Brian\ Dahlem\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=java.lang.String\ part1()
+comment3.params=
+comment3.target=java.lang.String\ part2()
+numComments=4
