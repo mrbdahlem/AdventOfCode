@@ -1,4 +1,4 @@
- 
+import java.util.*;
 
 /**
  * Solve one day of Advent of Code.
